@@ -5,7 +5,7 @@ I'm Kakshil a passionate developer, lifelong learner, and tech enthusiast. Here'
 ---
 ## 🤝 Connect with Me
 
-(www.linkedin.com/in/kakshil-kumar-957354294) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://x.com/Kakshill)) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)(https://www.instagram.com/xkakshil/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
+![LinkedIn](www.linkedin.com/in/kakshil-kumar-957354294) (https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)(https://x.com/Kakshill)) ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)(https://www.instagram.com/xkakshil/) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
 - [Email](mailto:kakshilx12@gmail.com) 📬
 
 - All of my projects are available at[Portfolio]([https://kakshil.netlify.app]) 🌐
